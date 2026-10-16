@@ -1,0 +1,17 @@
+# Compiled Java files
+*.class
+
+# Maven build output
+target/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local configuration and secrets
+.env
+*.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
